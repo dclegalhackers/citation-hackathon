@@ -25,4 +25,5 @@ After: drinks, pats on backs, better citation technology
 - https://github.com/vzvenyach/permafrast
 - https://github.com/vzvenyach/legalmd
 - https://github.com/adelevie/downlaw
-- YOUR LINK HERE (Send a pull request)
+- https://github.com/statedecoded/law-identifier
+- https://github.com/vzvenyach/codingforlawyers
