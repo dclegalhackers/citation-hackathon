@@ -1,5 +1,13 @@
 # Legal Citation Hackathon
 
+## Things that have been built:
+
+- https://github.com/talkingquickly/fastcase
+
+## Things that have been improved:
+
+- YOUR PR HERE
+
 ## What will be "hacked" on?
 
 - Improving citation parsers (such as github.com/unitedstates/citation)
