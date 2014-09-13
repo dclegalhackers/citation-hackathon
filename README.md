@@ -17,3 +17,12 @@
 12:30 - 4:00 Continued Hacking 
 
 After: drinks, pats on backs, better citation technology 
+
+### Things to work on
+
+- https://github.com/unitedstates/citation
+- https://github.com/adelevie/walverine
+- https://github.com/vzvenyach/permafrast
+- https://github.com/vzvenyach/legalmd
+- https://github.com/adelevie/downlaw
+- YOUR LINK HERE (Send a pull request)
